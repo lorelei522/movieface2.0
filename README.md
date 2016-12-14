@@ -1,7 +1,7 @@
 # MovieFace
 
 ## Team
-- []
+- Lorelei Lopez, Jung Choi, Sofia Cepeda, Allain Dollete, and Asiya Gizatulina
 
 ## Description
 - MovieFace is an IMDb clone
